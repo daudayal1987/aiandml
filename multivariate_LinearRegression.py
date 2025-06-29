@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 #### Step 2.1: Load CSV
 """
 
-df = pd.read_csv("budget_and_sales.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/daudayal1987/aiandml/refs/heads/main/budget_and_sales.csv")
 
 """#### Step 2.2: Show part of data using panda's head command"""
 
